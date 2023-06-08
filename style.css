@@ -1,0 +1,5 @@
+body{background-color: darkslategray;}
+#main{position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;border: 2px solid black;width: 525px;height: 400px;background-color: blueviolet;border-radius: 20px;box-shadow: 5px 10px;}
+#timer{float: left;border: 2px solid black; height: 190px;width: 475px;border-radius: 25px;margin-left: 15px;margin-top: 50px;padding: 5px;font-size: 120px;text-align: center;padding-top: 15px;background-color: black;color: white;}
+#main p{margin-top: 20px;}
+#main button{margin-top: 20px;margin-left: 55px;height: 100px;width:100px;border-radius: 70%;font-size: 25px;background-color: black;color: white;box-shadow: 5px 5px 0px slategray;}
